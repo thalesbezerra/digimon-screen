@@ -43,4 +43,6 @@ ___________________________________________________________________
 **BEM:** [Sobre o BEM](https://desenvolvimentoparaweb.com/css/bem/)
 
 
-Essa é uma alteração
+Essa é uma alteração da versão original:
+
+Essa é uma alteração feita na copia:
