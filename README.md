@@ -42,4 +42,3 @@ ___________________________________________________________________
 
 **BEM:** [Sobre o BEM](https://desenvolvimentoparaweb.com/css/bem/)
 
-Realizando Alterações de testes para o nosso repositório.
